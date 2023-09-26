@@ -17,7 +17,7 @@ The University of Chicago
 | Week  |  Theme | Day | Reading(s) | Content | Presenter | 
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | 1 | Preliminaries | Tue 10/26 | n/a | Introduction, review, overview | Aaron | 
-|   |         | Thu 10/28 | \citet{bleiVariationalInferenceReview2017} | Classical VI  | Aaron | 
+|   |         | Thu 10/28 | [Blei et al. (2017)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf.pdf) | Classical VI  | Aaron | 
 | 2 | Black box VI |  Tue 10/3 | \citet{ranganathBlackBoxVariational2014} | Black box VI   | TBD | 
 |   | | Thu 10/5 | \citet{mnihNeuralVariationalInference2014} | Neural VI  | TBD|
 | 3 | VAEs | Tue 10/10 | \citet{kingmaAutoEncodingVariationalBayes2014} | Variational autoencoders | TBD|
