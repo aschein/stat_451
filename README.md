@@ -16,6 +16,8 @@ The University of Chicago
 ---
 ## Schedule:
 
+Presenter signup sheet is [here](https://docs.google.com/spreadsheets/d/1qR57NEFTTGNfcH4fc8sbiN15_OGWAGby-7LoD45jIGs/edit?usp=sharing) (@chicago.edu email required)
+
 | Week  |  Theme | Day | Reading(s) | Content | Presenter | 
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | 1 | Preliminaries | Tue 10/26 | n/a | Introduction, review, overview | Aaron | 
