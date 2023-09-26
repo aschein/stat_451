@@ -11,6 +11,7 @@ The University of Chicago
 - Time: Tuesday and Thursday, 11:00am-12:20pm
 - Place: Jones 303
 - Office hours: Thursday 2:00-3:00pm
+- Place: Searle 209
 
 ---
 ## Schedule:
