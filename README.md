@@ -8,12 +8,15 @@ The University of Chicago
 ---
 
 ## Logistics:
-- Time: Tuesday and Thursday, 11:00am--12:20pm
-- Place: Jones room 303
+- Time: Tuesday and Thursday, 11:00am-12:20pm
+- Place: Jones 303
 - Office hours: Thursday 2:00-3:00pm
+- Place: Searle 209
 
 ---
 ## Schedule:
+
+Presenter signup sheet is [here](https://docs.google.com/spreadsheets/d/1qR57NEFTTGNfcH4fc8sbiN15_OGWAGby-7LoD45jIGs/edit?usp=sharing) (@chicago.edu email required)
 
 | Week  |  Theme | Day | Reading(s) | Content | Presenter | 
 | -------- | ------- | ------- | ------- | ------- | ------- |
@@ -35,3 +38,4 @@ The University of Chicago
 |   | | Thu 11/16 | [Kingma et al. (2021](https://github.com/aschein/stat_451/blob/main/readings/NeurIPS-2021-variational-diffusion-models-Paper.pdf) | Diffusion  | TBD|
 | 9 | TBD | Tue 11/28 | TBD | TBD  | TBD|
 |   | | Thu 11/30  | TBD | TBD | TBD|
+___
