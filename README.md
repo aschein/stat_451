@@ -9,7 +9,7 @@ The University of Chicago
 
 ## Logistics:
 - Time: Tuesday and Thursday, 11:00am-12:20pm
-- Place: Jones room 303
+- Place: Jones 303
 - Office hours: Thursday 2:00-3:00pm
 
 ---
