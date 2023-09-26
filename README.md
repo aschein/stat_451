@@ -13,6 +13,7 @@ The University of Chicago
 - Office hours: Thursday 2:00-3:00pm
 
 ---
+## Schedule:
 
 | Week  |  Theme | Day | Reading(s) | Content | Presenter | 
 | -------- | ------- | ------- | ------- | ------- | ------- |
