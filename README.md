@@ -17,21 +17,21 @@ The University of Chicago
 | Week  |  Theme | Day | Reading(s) | Content | Presenter | 
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | 1 | Preliminaries | Tue 10/26 | n/a | Introduction, review, overview | Aaron | 
-|   |         | Thu 10/28 | [Blei et al. (2017)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf.pdf) | Classical VI  | Aaron | 
-| 2 | Black box VI |  Tue 10/3 | \citet{ranganathBlackBoxVariational2014} | Black box VI   | TBD | 
-|   | | Thu 10/5 | \citet{mnihNeuralVariationalInference2014} | Neural VI  | TBD|
-| 3 | VAEs | Tue 10/10 | \citet{kingmaAutoEncodingVariationalBayes2014} | Variational autoencoders | TBD|
-|   | | Thu 10/12 | \citet{rezendeStochasticBackpropagationApproximate2014} | Variational autoencoders | TBD|
-| 4 | Dying units | Tue 10/17 | \citet{burdaImportanceWeightedAutoencoders2016} | Importance-weighted VAEs  | TBD|
-|   | | Thu 10/19 | \citet{tomczakVAEVampPrior2018} | VAEs with a VampPrior | TBD|
-| 5 | Structure in $Q$ | Tue 10/24 | \citet{rezendeVariationalInferenceNormalizing2015} | Normalizing flows  | TBD|
-|   | | Thu 10/26 | \citet{kingmaImprovingVariationalInference2016} | Normalizing flows  | TBD|
-| 6 |  | Tue 10/31 | \citet{sonderbyLadderVariationalAutoencoders2016} | Ladder networks  | TBD|
-|   | | Thu 11/2 | \citet{ranganathHierarchicalVariationalModels2016} | Hierarchical variational models  | TBD|
-| 7 | Amortization gap | Tue 11/7 | \citet{cremerInferenceSuboptimalityVariational2018} | Amortization gap  | TBD|
-|   | | Thu 11/9 | \citet{kimSemiAmortizedVariationalAutoencoders2018} | Semi-amortized VAEs | TBD|
-| 8 | Diffusion | Tue 11/14 | \citet{hoDenoisingDiffusionProbabilistic2020} | Diffusion  | TBD|
-|   | | Thu 11/16 | \citet{kingmaVariationalDiffusionModels2021} | Diffusion  | TBD|
+|   |         | Thu 10/28 | [Blei et al. (2017)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Classical VI  | Aaron | 
+| 2 | Black box VI |  Tue 10/3 | [Ranganath et al. (2014)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Black box VI   | TBD | 
+|   | | Thu 10/5 | [Mnih and Gregor (2014)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Neural VI  | TBD|
+| 3 | VAEs | Tue 10/10 | [Kingma and Welling (2014](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Variational autoencoders | TBD|
+|   | | Thu 10/12 | [Rezende et al. (2014)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Variational autoencoders | TBD|
+| 4 | Dying units | Tue 10/17 | [Burda et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Importance-weighted VAEs  | TBD|
+|   | | Thu 10/19 | [Tomczak and Welling (2018)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | VAEs with a VampPrior | TBD|
+| 5 | Structure in $Q$ | Tue 10/24 | [Rezende and Mohamed (2015)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Normalizing flows  | TBD|
+|   | | Thu 10/26 | [Kingma et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Normalizing flows  | TBD|
+| 6 |  | Tue 10/31 | [Sønderby et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Ladder networks  | TBD|
+|   | | Thu 11/2 | [Ranganath et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Hierarchical variational models  | TBD|
+| 7 | Amortization gap | Tue 11/7 | [Cremer et al. (2018)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Amortization gap  | TBD|
+|   | | Thu 11/9 | [Kim et al. (2018)]() | Semi-amortized VAEs | TBD|
+| 8 | Diffusion | Tue 11/14 | [Ho et al. (2020)](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Diffusion  | TBD|
+|   | | Thu 11/16 | [Kingma et al. (2021](https://github.com/aschein/stat_451/blob/main/readings/1601.00670.pdf) | Diffusion  | TBD|
 | 9 | TBD | Tue 11/28 | TBD | TBD  | TBD|
 |   | | Thu 11/30  | TBD | TBD | TBD|
 
