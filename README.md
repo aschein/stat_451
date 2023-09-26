@@ -36,3 +36,4 @@ The University of Chicago
 |   | | Thu 11/16 | [Kingma et al. (2021](https://github.com/aschein/stat_451/blob/main/readings/NeurIPS-2021-variational-diffusion-models-Paper.pdf) | Diffusion  | TBD|
 | 9 | TBD | Tue 11/28 | TBD | TBD  | TBD|
 |   | | Thu 11/30  | TBD | TBD | TBD|
+___
