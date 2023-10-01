@@ -30,7 +30,7 @@ Presenter signup sheet is [here](https://docs.google.com/spreadsheets/d/1qR57NEF
 |   | | Thu 10/19 | [Tomczak and Welling (2018)](https://github.com/aschein/stat_451/blob/main/readings/tomczak18a.pdf) | VAEs with a VampPrior | TBD|
 | 5 | Structure in $Q$ | Tue 10/24 | [Rezende and Mohamed (2015)](https://github.com/aschein/stat_451/blob/main/readings/rezende15.pdf) | Normalizing flows  | TBD|
 |   | | Thu 10/26 | [Kingma et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/1606.04934.pdf) | Normalizing flows  | TBD|
-| 6 |  | Tue 10/31 | [Sønderby et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/NIPS-2016-ladder-variational-autoencoders-Paper.pdf) | Ladder networks  | TBD|
+| 6 |  | Tue 10/31 | [Sønderby et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/NIPS-2016-ladder-variational-autoencoders-Paper.pdf) | Ladder VAEs  | TBD|
 |   | | Thu 11/2 | [Ranganath et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/ranganath16.pdf) | Hierarchical variational models  | TBD|
 | 7 | Amortization gap | Tue 11/7 | [Cremer et al. (2018)](https://github.com/aschein/stat_451/blob/main/readings/cremer18a.pdf) | Amortization gap  | TBD|
 |   | | Thu 11/9 | [Kim et al. (2018)](https://github.com/aschein/stat_451/blob/main/readings/kim18e.pdf) | Semi-amortized VAEs | TBD|
