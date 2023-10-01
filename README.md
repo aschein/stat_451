@@ -33,9 +33,9 @@ Presenter signup sheet is [here](https://docs.google.com/spreadsheets/d/1qR57NEF
 | 6 |  | Tue 10/31 | [Sønderby et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/NIPS-2016-ladder-variational-autoencoders-Paper.pdf) | Ladder VAEs  | Qizhong |
 |   | | Thu 11/2 | [Ranganath et al. (2016)](https://github.com/aschein/stat_451/blob/main/readings/ranganath16.pdf) | Hierarchical variational models  | Nihar |
 | 7 | Amortization gap | Tue 11/7 | [Cremer et al. (2018)](https://github.com/aschein/stat_451/blob/main/readings/cremer18a.pdf) | Amortization gap  | John |
-|   | | Thu 11/9 | [Kim et al. (2018)](https://github.com/aschein/stat_451/blob/main/readings/kim18e.pdf) | Semi-amortized VAEs | TBD|
+|   | | Thu 11/9 | [Kim et al. (2018)](https://github.com/aschein/stat_451/blob/main/readings/kim18e.pdf) | Semi-amortized VAEs | **TBD** |
 | 8 | Diffusion | Tue 11/14 | [Ho et al. (2020)](https://github.com/aschein/stat_451/blob/main/readings/NeurIPS-2020-denoising-diffusion-probabilistic-models-Paper.pdf) | Diffusion  | Star |
-|   | | Thu 11/16 | [Kingma et al. (2021)](https://github.com/aschein/stat_451/blob/main/readings/NeurIPS-2021-variational-diffusion-models-Paper.pdf) | Diffusion  | TBD|
-| 9 | TBD | Tue 11/28 | TBD | TBD  | TBD|
-|   | | Thu 11/30  | TBD | TBD | TBD|
+|   | | Thu 11/16 | [Kingma et al. (2021)](https://github.com/aschein/stat_451/blob/main/readings/NeurIPS-2021-variational-diffusion-models-Paper.pdf) | Diffusion  | **TBD**|
+| 9 | TBD | Tue 11/28 | TBD | TBD  | **TBD** |
+|   | | Thu 11/30  | TBD | TBD | **TBD** |
 ___
