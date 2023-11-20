@@ -36,6 +36,6 @@ Presenter signup sheet is [here](https://docs.google.com/spreadsheets/d/1qR57NEF
 |   | | Thu 11/9 | [Kim et al. (2018)](https://github.com/aschein/stat_451/blob/main/readings/kim18e.pdf) | Semi-amortized VAEs | TBD |
 | 8 | Diffusion | Tue 11/14 | [Ho et al. (2020)](https://github.com/aschein/stat_451/blob/main/readings/NeurIPS-2020-denoising-diffusion-probabilistic-models-Paper.pdf) | Diffusion  | Star |
 |   | | Thu 11/16 | [Kingma et al. (2021)](https://github.com/aschein/stat_451/blob/main/readings/NeurIPS-2021-variational-diffusion-models-Paper.pdf) | Diffusion  | Amber |
-| 9 | TBD | Tue 11/28 | TBD | TBD  | Aaron |
+| 9 | And beyond | Tue 11/28 | [Kingma et al. (2023)](https://github.com/aschein/stat_451/blob/main/readings/Kingma%20and%20Gao%20-%20Understanding%20Diffusion%20Objectives%20as%20the%20ELBO%20wit.pdf), [Lüdke et al. (2023)](https://github.com/aschein/stat_451/blob/main/readings/L%C3%BCdke%20et%20al.%20-%20Add%20and%20Thin%20Diffusion%20for%20Temporal%20Point%20Process.pdf), [Zhou et al. (2023)](https://github.com/aschein/stat_451/blob/main/readings/beta_diffusion.pdf) | Diffusion papers at NeurIPS 2023 | Aaron |
 |   | | Thu 11/30  |  | Final project presentations | Everyone |
 ___
